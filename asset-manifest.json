@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Rubix23-34_Coolbyte/static/css/main.dc7ce360.css",
+    "main.js": "/Rubix23-34_Coolbyte/static/js/main.ffb3e8df.js",
+    "static/js/787.916185d4.chunk.js": "/Rubix23-34_Coolbyte/static/js/787.916185d4.chunk.js",
+    "static/media/food2.jpg": "/Rubix23-34_Coolbyte/static/media/food2.fef932b7153a2eb1fa3f.jpg",
+    "static/media/item2.jpg": "/Rubix23-34_Coolbyte/static/media/item2.2fb1f95abc078aacb28c.jpg",
+    "static/media/food1.jpg": "/Rubix23-34_Coolbyte/static/media/food1.a982b47769d4cfad5812.jpg",
+    "static/media/items1.webp": "/Rubix23-34_Coolbyte/static/media/items1.bc70ffa44134d0e9c97e.webp",
+    "static/media/food3.webp": "/Rubix23-34_Coolbyte/static/media/food3.353b3353bfebc3f49038.webp",
+    "static/media/strawberry.webp": "/Rubix23-34_Coolbyte/static/media/strawberry.0ec4d66f555c4acdb794.webp",
+    "index.html": "/Rubix23-34_Coolbyte/index.html",
+    "main.dc7ce360.css.map": "/Rubix23-34_Coolbyte/static/css/main.dc7ce360.css.map",
+    "main.ffb3e8df.js.map": "/Rubix23-34_Coolbyte/static/js/main.ffb3e8df.js.map",
+    "787.916185d4.chunk.js.map": "/Rubix23-34_Coolbyte/static/js/787.916185d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc7ce360.css",
+    "static/js/main.ffb3e8df.js"
+  ]
+}
